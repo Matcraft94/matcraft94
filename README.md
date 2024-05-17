@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Eduardo Arias
+# 👋 Hi,
 
 I'm a Mathematical Engineer specializing in Scientific Computing and Modeling. I'm passionate about leveraging data, machine learning, and artificial intelligence to solve real-world problems. Throughout my career, I've played key roles in research, data analysis, and the development of advanced analytical tools.
 
