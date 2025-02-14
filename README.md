@@ -70,14 +70,35 @@ I am a Mathematical Engineer specializing in Scientific Computing and Modeling <
 
 ---
 
-### :rocket: Selected Projects :
+### :rocket: Projects Portfolio:
 
-- **Algorithmic Trading**: Developed and implemented advanced data analysis and AI models to guide strategic decisions in algorithmic trading projects, improving operational efficiency.
+📊 **[Data Science Portfolio](https://github.com/Matcraft94/ds-projects)**
 
-- **Geospatial Data Analysis**: Utilized H3 for geospatial data analysis and Pyro for probabilistic programming to develop innovative geographical models.
+- **Actuarial Loss Prediction**
+  - Implemented XGBoost model for actuarial loss prediction with advanced text processing
+  - Achieved RMSE of 23,669 on test set with complete preprocessing pipeline
 
-- **Educational Assessment Tools**: Designing and implementing automations to optimize data analysis and management processes in educational assessment. Conducting complex psychometric analyses using Item Response Theory (IRT) and Classical Test Theory (CTT).
+- **Neural PDEs Solver**
+  - Developed Physics-Informed Neural Networks (PINNs) for solving direct/inverse PDEs
+  - Implemented double pendulum system with domain decomposition
+  - Built GPU-optimized architecture with residual blocks and adaptive activations
 
+- **Market Risk Analysis Platform**
+  - Built ML-powered market risk platform using LSTM networks
+  - Achieved training loss improvement from 0.1250 to 0.0833 (Crash 300)
+  - Implemented robust preprocessing pipeline reducing noise (11,623 → 10,607 samples)
+
+- **Educational Assessment ML Pipeline**
+  - Developed automated psychometric analysis system with neural IRT implementation
+  - Created interactive dashboard for performance metrics visualization
+
+- **Geospatial Anomaly Detection**
+  - Built geographical anomaly detection system using H3 and Pyro
+  - Implemented REST API backend with Django and interactive map visualizations
+
+- **Academic Performance Prediction**
+  - Developed GPU-accelerated LightGBM model for student dropout prediction
+  - Achieved 88% overall accuracy with comprehensive feature engineering
 ---
 
 ### :writing_hand: Blog Posts :
